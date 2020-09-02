@@ -1,2 +1,2 @@
 # Experimental
-Projects for spitballing
+Various projects for spitballing
